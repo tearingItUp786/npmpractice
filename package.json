@@ -1,0 +1,27 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Some practice with npm",
+  "main": "learn_npm.js",
+  "dependencies": {
+    "bl": "^1.1.2",
+    "through2-map": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tearingItUp786/npmpractice.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Taran Bains",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tearingItUp786/npmpractice/issues"
+  },
+  "homepage": "https://github.com/tearingItUp786/npmpractice#readme"
+}
