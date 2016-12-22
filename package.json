@@ -1,6 +1,6 @@
 {
   "name": "@tearingitup786/practice",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Some practice with npm",
   "main": "learn_npm.js",
   "dependencies": {
