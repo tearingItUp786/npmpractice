@@ -3,11 +3,7 @@
   "version": "1.2.1",
   "description": "Some practice with npm",
   "main": "learn_npm.js",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2",
-    "bl": "^1.1.2",
-    "through2-map": "^3.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "node learn_npm.js"
