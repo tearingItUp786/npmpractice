@@ -1,6 +1,6 @@
 {
-  "name": "practice",
-  "version": "1.0.0",
+  "name": "@tearingitup786/practice",
+  "version": "1.2.0",
   "description": "Some practice with npm",
   "main": "learn_npm.js",
   "dependencies": {
@@ -21,6 +21,7 @@
   ],
   "author": "Taran Bains",
   "license": "ISC",
+  "dist-tag": "test",
   "bugs": {
     "url": "https://github.com/tearingItUp786/npmpractice/issues"
   },

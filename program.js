@@ -329,7 +329,7 @@
                 return response.end(JSON.stringify(thingToReturn));
             } else {
                 response.writeHead(404);
-                return response.end("Send me a get\n");
+                return response.end("Send me a get please\n");
             }
         }
     });
